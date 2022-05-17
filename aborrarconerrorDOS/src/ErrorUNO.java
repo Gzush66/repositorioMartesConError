@@ -13,4 +13,3 @@ public class ErrorUNO {
 
 
 
- tienes que borrar esto si quieres quitar el error
