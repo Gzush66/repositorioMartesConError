@@ -11,7 +11,7 @@ public class ErrorUNO {
 		
 		
 		
-		systme.out.println(" jesus , ya te lo he arreglado dos veces, y no has hecho las capturas, aclarate"");
+		System.out.println(" jesus , ya te lo he arreglado dos veces, y no has hecho las capturas, aclarate");
 	}
 
 }
